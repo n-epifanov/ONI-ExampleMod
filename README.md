@@ -19,5 +19,6 @@ Getting started
 * Open project's `Properties`:
    * Rename `Assembly name` and `Default Namespace`
    * Click `Assembly Information...` and make renames there too
+* Open .cs file and rename `ExampleMod` class
 * Build (.dll will get copied to ONI `Mods` dir);
 * Run the game.
