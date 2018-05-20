@@ -16,9 +16,10 @@ Getting started
    * `UnityEngine.dll`
    * `UnityEngine.UI.dll`
 * Open solution in Visual Studio
-* Open project's `Properties`:
-   * Rename `Assembly name` and `Default Namespace`
-   * Click `Assembly Information...` and make renames there too
-* Open .cs file and rename `ExampleMod` class
+* Now there are some renames to be done from `ExampleMod` to your mod's name:
+  * Open project's `Properties`:
+    * Rename `Assembly name` and `Default Namespace`
+    * Click `Assembly Information...` and make renames there too
+  * Open .cs file and rename `ExampleMod` class
 * Build (.dll will get copied to ONI `Mods` dir);
 * Run the game.
