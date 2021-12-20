@@ -11,7 +11,6 @@ Getting started
 * Copy the following files from ONI's `OxygenNotIncluded_Data\Managed` folder to this mod's `\lib\`:
    * `Assembly-CSharp.dll`
    * `Assembly-CSharp-firstpass.dll`
-   * `Assembly-UnityScript-firstpass.dll`
    * `UnityEngine.dll`
    * `UnityEngine.UI.dll`
 * Open solution in Visual Studio
