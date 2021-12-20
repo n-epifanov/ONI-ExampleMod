@@ -8,7 +8,6 @@ Requirements
 
 Getting started
 ---------------
-* Do the "Installation" part of https://github.com/javisar/ONI-Modloader
 * Copy the following files from ONI's `OxygenNotIncluded_Data\Managed` folder to this mod's `\lib\`:
    * `Assembly-CSharp.dll`
    * `Assembly-CSharp-firstpass.dll`
